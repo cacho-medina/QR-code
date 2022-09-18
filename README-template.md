@@ -21,8 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/images/screenshot1.png) _desktop_
-![](/images/screenshot2.png) _mobile_
+_Desktop_
+![](/images/screenshot1.png)
+
+_Mobile_
+![](/images/screenshot2.png)
 
 ### Links
 
