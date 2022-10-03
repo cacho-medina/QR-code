@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -44,24 +42,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+This project was useful to practice my skills about responsive design. One of the most importants things that I've learned
+was the mobile first workflow, that makes easier the responsive development. To make the project more interesting
+I did not use any css framework to make this responsive, in fact this was perfect to put on practice the use of media queries and my css skills. Moreover, I could have a first met with Markdown languaje by editying this file.
 
 ```css
-.proud-of-this-css {
-    color: papayawhip;
+@media screen and (min-width: 1440px) {
+    .class {
+        property: value;
+    }
 }
-```
-
-```js
-const proudOfThisFunc = () => {
-    console.log("🎉");
-};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
